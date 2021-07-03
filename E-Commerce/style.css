@@ -1,0 +1,166 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand
+{
+    font-size: 20px;
+    color: black;
+}
+
+.navbar-brand :hover
+{
+    color: black;
+}
+
+.nav-link
+{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black;
+    text-transform: uppercase;
+}
+.nav-link :hover
+{
+    color: black;
+}
+
+.search
+{
+    height: 40px;
+    width: 80%;
+    border-radius: 60px;
+    outline: none;
+    margin-right: -35px;
+    border: 2px solid rgb(182, 42, 42);
+}
+
+.btn
+{
+    height: 40px;
+    color: white;
+    width: 40%;
+    outline: none;
+    border: none;
+    border-radius: 60px;
+    font-weight: 700;
+    background:rgb(212, 18, 18)
+
+}
+.main
+{
+    background: url(./images/Bg5.jpg)no-repeat;
+    background-size: cover;
+    height: 80vh;
+    background-position: 50% 50%;
+    width: 100%;
+
+}
+.main h1
+{
+    font-size: 4rem;
+    font-weight: 500;
+    font-family: cursive;
+    color: whitesmoke;
+    
+}
+
+.btn1
+{
+    height: 45px;
+    width: 30%;
+    border: none;
+    outline: none;
+    background-color: rgb(224, 21, 21);
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+}
+
+h1
+{
+    font-weight: 700;
+}
+
+p
+{
+    text-align: justify;
+}
+
+.apple
+{
+    background: url(./images/newbg3.jpg)no-repeat;
+    background-size: cover;
+    height: 60vh;
+    width: 100%;
+    color: aliceblue;
+    font-family: cursive;
+}
+
+.btn3
+{
+    height: 40px;
+    color: white;
+    width: 40%;
+    outline: none;
+    border: none;
+    border-radius: 60px;
+    font-weight: 700;
+    background:rgb(212, 18, 18)
+
+}
+.btn2
+{
+    height: 40px;
+    color: white;
+    width: 20%;
+    outline: none;
+    border: none;
+    border-radius: 60px;
+    font-weight: 700;
+    background:rgb(212, 18, 18)
+}
+.last
+{
+    background-color: black;
+    color: white;
+}
+
+.btn4
+{
+    height: 35px;
+    width: 100px;
+    background: white;
+    margin-left: -2px;
+    border: 2px solid white;
+    font-weight: 600;
+    border-radius: 60px;
+}
+
+.last input
+{
+    height: 35px;
+    width: 50%;
+    border: 2px solid white;
+    outline: none;
+    background: black;
+    color: white;
+    margin-top: 20px;
+    font-weight: 600;
+    border-radius: 60px
+
+}
+.last p
+{
+    margin: 0;
+}
+
+.fab
+{
+    font-size: 2.5rem;
+    cursor: pointer;
+    padding-right: 5px;
+}
